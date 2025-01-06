@@ -1,6 +1,6 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">Programmer/Web Developer</a> , <a href="https://github.com/joshkoo1988/CyberSecurity">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Josh! </h1>
 
-<h2>🖥️Programming and Web Development:</h2>
+<h2><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">🖥️Programming and Web Development : </a> </h2>
 
 - <b>Python</b>
   - [coming soon](insert URL here)
@@ -17,7 +17,7 @@
 - <b>HTML</b>
   - [coming soon](insert URL here) 
 
-<h2>🔐CyberSecurity Projects:</h2>
+<h2><a href="https://github.com/joshkoo1988/CyberSecurity">🔐CyberSecurity Professional : </a> </h2>
 
 - <b> Home Lab</b>
   - [Dell T620 build](insert URL here)
