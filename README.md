@@ -2,12 +2,15 @@
 
 <h2>🖥️Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](insert URL here)
+- <b>Python</b>
+  - [coming soon](insert URL here)
 - <b>PowerShell</b>
   - [in progress](insert url here)
-- <b>Python</b>
-  - [Python zip file Brute Force using RockYou.txt](insert URL here)
+- <b>C#</b>
+  - [coming soon](insert URL here)
+- <b>go</b>
+  - [coming soon](insert URL here)
+
 
 <h2>🔐CyberSecurity Projects:</h2>
 
