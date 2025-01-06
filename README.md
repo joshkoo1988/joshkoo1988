@@ -1,25 +1,35 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshkoo1988/python">Programmer</a>, <a href="https://github.com/joshkoo1988/CyberSecurity">Cybersecurity Professional</a> </h1>
 
-<h2>🖥️Software Development Projects:</h2>
+<h2>🖥️Program and Web Develeopment:</h2>
 
 - <b>Python</b>
   - [coming soon](insert URL here)
+    
 - <b>PowerShell</b>
-  - [in progress](insert url here)
+  - [coming soon](insert url here)
+    
 - <b>C#</b>
   - [coming soon](insert URL here)
+    
 - <b>go</b>
   - [coming soon](insert URL here)
-
+    
+- <b>HTML</b>
+  - [coming soon](insert URL here) 
 
 <h2>🔐CyberSecurity Projects:</h2>
 
-- <b> (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](insert URL here)
-- <b>PowerShell</b>
-  - [in progress](insert url here)
+- <b> Home Lab</b>
+  - [Dell T620 build](insert URL here)
+  - [Firewall & Managed Switch set up](insert URL here)
+  - [ProxMox install and configure](insert URL here)
+  - [Kemp LoadBalancer install with content switching](insert URL here)
+  - [SSL cert and full encryption of traffic](insert URL here)
+  - [2FA for logging into my home lab](insert URL here)
+    
+
 - <b>Python</b>
-  - [Python zip file Brute Force using RockYou.txt](insert URL here)
+  - Python [zip file Brute Force using RockYou.txt](insert URL here)
  
 <h2>📺YouTube Content:(coming soon)</h2>
 
