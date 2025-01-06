@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshkoo1988/python">Programmer/web developer</a> , <a href="https://github.com/joshkoo1988/CyberSecurity">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshkoo1988/python">Programmer/Web Developer</a> , <a href="https://github.com/joshkoo1988/CyberSecurity">Cybersecurity Professional</a> </h1>
 
 <h2>🖥️Programming and Web Development:</h2>
 
