@@ -33,7 +33,7 @@
     
 
 - <b>Python</b>
-  - Python [zip file Brute Force using RockYou.txt](insert URL here)
+  - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
  
 <h2>📺YouTube Content:(coming soon)</h2>
 
