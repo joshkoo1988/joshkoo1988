@@ -4,6 +4,10 @@
 
 - <b>Python</b>
   - [basic Python learning library](https://github.com/joshkoo1988/Python-Learning)
+  - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
+  - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
+  - [Astroids](https://github.com/joshkoo1988/astroids)
+  - [Book Bot](https://github.com/joshkoo1988/bookbot)
     
 - <b>PowerShell</b>
   - [coming soon](insert url here)
