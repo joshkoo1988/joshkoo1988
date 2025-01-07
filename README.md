@@ -3,7 +3,7 @@
 <h2><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">🖥️Programming and Web Development : </a> </h2>
 
 - <b>Python</b>
-  - [coming soon](insert URL here)
+  - [basic Python learning library](https://github.com/joshkoo1988/Python-Learning)
     
 - <b>PowerShell</b>
   - [coming soon](insert url here)
