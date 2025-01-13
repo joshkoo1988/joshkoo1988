@@ -40,9 +40,6 @@
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
  
-<h2>📺YouTube Content:(coming soon)</h2>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Joshkoo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
