@@ -29,7 +29,7 @@
   - Network + (in progress)
 
 - <b> Home Lab</b>
-  - [Dell T620 build](https://github.com/joshkoo1988/HomeLab)
+  - [Dell T620 HomeLab](https://github.com/joshkoo1988/HomeLab)
   - [Firewall & Managed Switch set up](insert URL here)
   - [ProxMox install and configure](insert URL here)
   - [Kemp LoadBalancer install with content switching](insert URL here)
