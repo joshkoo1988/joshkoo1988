@@ -2,6 +2,9 @@
 
 <h2><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">🖥️Programming and Web Development : </a> </h2>
 
+- <b>Certifications</b>
+  - Boot.Dev Backend Developer
+
 - <b>Python</b>
   - [Python learning library](https://github.com/joshkoo1988/Python-Learning)
   - [Python Algorithms & Data Structures](https://github.com/joshkoo1988/Python-Algorithms-and-Data-Structures)
@@ -25,6 +28,7 @@
 <h2><a href="https://github.com/joshkoo1988/CyberSecurity">🔐CyberSecurity Professional : </a> </h2>
 
 - <b>Certifications</b>
+  - Ohio State University Cyber Security Boot Camp
   - Security + (in progress)
   - Network + (in progress)
 
