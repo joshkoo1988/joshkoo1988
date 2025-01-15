@@ -30,7 +30,7 @@
 
 - <b> Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
-  - [Firewall & Managed Switch set up](insert URL here)
+  - [Firewall & Managed Switch set up](https://github.com/joshkoo1988/PfSense-firewall)
   - [ProxMox install and configure](insert URL here)
   - [Kemp LoadBalancer install with content switching](insert URL here)
   - [SSL cert and full encryption of traffic](insert URL here)
