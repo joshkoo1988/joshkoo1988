@@ -34,7 +34,7 @@
 
 - <b> Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
-  - [Firewall & Managed Switch set up](https://github.com/joshkoo1988/PfSense-firewall)
+  - [Network set up Router/Firewall + Load Balancer + Switch](https://github.com/joshkoo1988/PfSense-firewall)
   - [ProxMox install and configure](https://github.com/joshkoo1988/ProxMox/)
   - [2FA for logging into my home lab](insert URL here)
     
