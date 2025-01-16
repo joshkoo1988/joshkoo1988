@@ -39,7 +39,6 @@
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
   - [Home Netowrk setup](https://github.com/joshkoo1988/PfSense-firewall)
   - [ProxMox install and configure](https://github.com/joshkoo1988/ProxMox/)
-  - [2FA for logging into my home lab](insert URL here)
     
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
