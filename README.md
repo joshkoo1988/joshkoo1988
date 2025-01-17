@@ -17,9 +17,6 @@
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
   - [Astroids](https://github.com/joshkoo1988/astroids)
     
-- <b>PowerShell</b>
-  - [coming soon](insert url here)
-    
 - <b>C#</b>
   - [coming soon](insert URL here)
     
@@ -36,7 +33,7 @@
   - Security + (in progress)
   - Network + (in progress)
 
-- <b> Home Lab</b>
+- <b>Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
   - [PfSense Home Network](https://github.com/joshkoo1988/PfSense-firewall)
   - [ProxMox install and configure](https://github.com/joshkoo1988/ProxMox/)
@@ -44,5 +41,10 @@
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
  
+- <b>PowerShell</b>
+  - [coming soon](insert URL here)
+
+- <b>Bash</b>
+   - [coming soon](insert URL here)
 
   
