@@ -36,8 +36,8 @@
 
 - <b>Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
-  - [PfSense](https://github.com/joshkoo1988/PfSense)
-  - [ProxMox install and configure](https://github.com/joshkoo1988/ProxMox/)
+  - [PfSense Guides](https://github.com/joshkoo1988/PfSense)
+  - [ProxMox Guides](https://github.com/joshkoo1988/ProxMox-Guides)
   
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
