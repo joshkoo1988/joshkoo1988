@@ -32,6 +32,7 @@
   - Ohio State University Cyber Security Boot Camp
   - Security + (in progress)
   - Network + (in progress)
+  - TryHackMe
 
 - <b>Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
