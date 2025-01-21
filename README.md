@@ -7,7 +7,7 @@
 <h2><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">🖥️Programming and Web Development : </a> </h2>
 
 - <b>Certifications</b>
-  - Boot.Dev Backend Developer
+  - [Boot.Dev Backend Developer](https://www.boot.dev/u/joshkoo)
 
 - <b>Python</b>
   - [Python learning library](https://github.com/joshkoo1988/Python-Learning)
