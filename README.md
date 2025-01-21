@@ -35,8 +35,7 @@
 
 - <b>Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
-  - [PfSense Install](https://github.com/joshkoo1988/PfSense-firewall)
-  - [PfSense Configuring and trouble shooting](https://github.com/joshkoo1988/configure_PfSense/)
+  - [PfSense](https://github.com/joshkoo1988/PfSense)
   - [ProxMox install and configure](https://github.com/joshkoo1988/ProxMox/)
   
 - <b>Python</b>
