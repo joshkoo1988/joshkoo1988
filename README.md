@@ -38,6 +38,7 @@
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
   - [PfSense Guides](https://github.com/joshkoo1988/PfSense)
   - [ProxMox Guides](https://github.com/joshkoo1988/ProxMox-Guides)
+  - [Portainer Guides](https://github.com/joshkoo1988/portainer)
   
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
