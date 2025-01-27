@@ -22,7 +22,7 @@
   - [coming soon](https://github.com/joshkoo1988/C-learning)
     
 - <b>go</b>
-  - [coming soon](insert URL here)
+  - [coming soon]([insert URL here](https://github.com/joshkoo1988/go-lang-learning))
     
 - <b>HTML</b>
   - [coming soon](insert URL here) 
