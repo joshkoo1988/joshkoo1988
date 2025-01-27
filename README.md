@@ -16,6 +16,7 @@
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
   - [Astroids](https://github.com/joshkoo1988/astroids)
+  - [Flask Self-hosted Website]()
     
 - <b>C#</b>
   - [coming soon](insert URL here)
@@ -39,6 +40,7 @@
   - [PfSense Guides](https://github.com/joshkoo1988/PfSense)
   - [ProxMox Guides](https://github.com/joshkoo1988/ProxMox-Guides)
   - [Portainer Guides](https://github.com/joshkoo1988/portainer)
+  - [Wazuh SIEM Lab]()
   
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
