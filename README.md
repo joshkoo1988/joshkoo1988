@@ -19,7 +19,7 @@
   - [Flask Website](https://github.com/joshkoo1988/flask-website)
     
 - <b>C#</b>
-  - [coming soon](insert URL here)
+  - [coming soon](https://github.com/joshkoo1988/C-learning)
     
 - <b>go</b>
   - [coming soon](insert URL here)
