@@ -25,7 +25,7 @@
   - [coming soon](https://github.com/joshkoo1988/go-lang-learning)
     
 - <b>HTML</b>
-  - [coming soon](insert URL here) 
+  - [coming soon](https://github.com/joshkoo1988/HTML-learning) 
 
 <h2><a href="https://github.com/joshkoo1988/CyberSecurity">🔐CyberSecurity Professional : </a> </h2>
 
