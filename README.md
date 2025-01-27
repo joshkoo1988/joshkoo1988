@@ -40,7 +40,7 @@
   - [PfSense Guides](https://github.com/joshkoo1988/PfSense)
   - [ProxMox Guides](https://github.com/joshkoo1988/ProxMox-Guides)
   - [Portainer Guides](https://github.com/joshkoo1988/portainer)
-  - [Wazuh SIEM Lab]()
+  - [Wazuh SIEM Lab](https://github.com/joshkoo1988/wazuh-siem)
   
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
