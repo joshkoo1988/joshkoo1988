@@ -16,7 +16,7 @@
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
   - [Astroids](https://github.com/joshkoo1988/astroids)
-  - [Flask Self-hosted Website]()
+  - [Flask Website]()
     
 - <b>C#</b>
   - [coming soon](insert URL here)
