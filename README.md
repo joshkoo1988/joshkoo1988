@@ -15,7 +15,7 @@
   - [Python Sorting Algorithms](https://github.com/joshkoo1988/PythonSortingAlgorithms)
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
-  - [Astroids](https://github.com/joshkoo1988/astroids)
+  - [Asteroids](https://github.com/joshkoo1988/astroids)
   - [Flask Website](https://github.com/joshkoo1988/flask-website)
     
 - <b>C#</b>
