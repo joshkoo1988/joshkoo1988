@@ -29,8 +29,8 @@
 - <b>Certifications</b>
   - Ohio State University Cyber Security Boot Camp
   - Security + (in progress)
-  - Network + (in progress)
-  - [TryHackMe](https://tryhackme.com/r/p/joshkoo1988)
+  - AWS Cloud Pratictioner
+  - [TryHackMe top 2% user](https://tryhackme.com/r/p/joshkoo1988)
 
 - <b>Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
