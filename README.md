@@ -4,7 +4,7 @@
 
 
 
-<h2><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">🖥️Programming and Web Development : </a> </h2>
+<h2><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">🖥️Programming ,Web Development and Cloud : </a> </h2>
 
 - <b>Certifications</b>
   - [Boot.Dev Backend Developer](https://www.boot.dev/u/joshkoo)
@@ -22,7 +22,9 @@
   - [coming soon](https://github.com/joshkoo1988/go-lang-learning)
     
 - <b>HTML</b>
-  - [coming soon](https://github.com/joshkoo1988/HTML-learning) 
+  - [coming soon](https://github.com/joshkoo1988/HTML-learning)
+ 
+- <b>AWS</b> 
 
 <h2><a href="https://github.com/joshkoo1988/CyberSecurity">🔐CyberSecurity Professional : </a> </h2>
 
