@@ -22,6 +22,7 @@
 
 - <b>Front End (Java Script & React.JS)</b>
   - [Calculator](https://github.com/joshkoo1988/calculator)
+  - [Weather App](https://github.com/joshkoo1988/weather-app)
 
 <h2><a href="https://github.com/joshkoo1988/CyberSecurity">🔐CyberSecurity Professional : </a> </h2>
 
