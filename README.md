@@ -15,13 +15,13 @@
   - [Asteroids](https://github.com/joshkoo1988/astroids)
   - [Flask Website](https://github.com/joshkoo1988/flask-website)
     
-- <b>C#</b>
-  - [coming soon](https://github.com/joshkoo1988/C-learning)
-    
 - <b>go</b>
   - [coming soon](https://github.com/joshkoo1988/go-lang-learning)
     
-- <b>AWS</b> 
+- <b>AWS</b>
+
+- <b>Front End (Java Script & React.JS)</b>
+  - [Calculator](https://github.com/joshkoo1988/calculator)
 
 <h2><a href="https://github.com/joshkoo1988/CyberSecurity">🔐CyberSecurity Professional : </a> </h2>
 
