@@ -41,9 +41,11 @@
   
 - <b>Python</b>
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
+  - [Basic Enumeration script with wordlists](https://github.com/joshkoo1988/basic_enum)
  
 - <b>PowerShell</b>
-  - [coming soon](https://github.com/joshkoo1988/powershell)
+  - [System Info Report](https://github.com/joshkoo1988/systeminforeport)
+  - [Drive Sanitization script](https://github.com/joshkoo1988/Drive-Sanitization)
 
 - <b>Bash</b>
    - [coming soon](https://github.com/joshkoo1988/bash)
