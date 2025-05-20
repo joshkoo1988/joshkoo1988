@@ -51,5 +51,3 @@
 
 - <b>Bash</b>
    - [coming soon](https://github.com/joshkoo1988/bash)
-
-  
