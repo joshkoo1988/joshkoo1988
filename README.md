@@ -24,6 +24,7 @@
 - <b>[Web Dev Portfolio](https://github.com/joshkoo1988/Web-Dev-Portfolio)</b>
   - [Calculator](https://github.com/joshkoo1988/calculator)
   - [Weather App](https://github.com/joshkoo1988/weather-app)
+  - [Dog Click Game](https://github.com/joshkoo1988/dog-click)
 
 <h2><a href="https://github.com/joshkoo1988/CyberSecurity">🔐CyberSecurity Professional : </a> </h2>
 
