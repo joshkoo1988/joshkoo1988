@@ -10,7 +10,7 @@
   - [Boot.Dev Backend Developer](https://www.boot.dev/u/joshkoo)
   - AWS Cloud Pratictioner
 
-- <b>[Python](https://github.com/joshkoo1988/Python)</b>
+- <b>[Python portfolio](https://github.com/joshkoo1988/Python)</b>
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
   - [Asteroids](https://github.com/joshkoo1988/astroids)
